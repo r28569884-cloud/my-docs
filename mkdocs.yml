@@ -1,0 +1,11 @@
+site_name: 我的技术文档
+site_url: https://r28569884-cloud.github.io/my-docs/
+
+theme:
+  name: material
+
+nav:
+  - 首页: index.md
+  - 关于: about.md
+  - 指南: guide.md
+  - API: api.md
